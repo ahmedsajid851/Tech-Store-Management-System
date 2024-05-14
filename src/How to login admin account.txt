@@ -1,0 +1,5 @@
+here are two admin accounts and their passwords. 
+Goto login page to login into admin account.
+
+admin 		123
+admin2		wasd

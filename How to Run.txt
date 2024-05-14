@@ -1,0 +1,1 @@
+Go to 'src' folder and run 'Start.java' file from CMD
